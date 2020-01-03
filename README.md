@@ -1,8 +1,13 @@
 # PHP-Guide
 Multiple PHP implementations to use 
 
-### Documentation
+## Documentation
 https://www.php.net/manual/en/
+
+### PHP Function Description 
+
+empty($var) : returns a Boolean <br>
+
 
 ### PHP Technologies 
 
