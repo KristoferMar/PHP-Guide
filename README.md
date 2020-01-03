@@ -6,8 +6,11 @@ https://www.php.net/manual/en/
 
 ### PHP Function Description 
 
-empty($var) : returns a Boolean <br>
-
+empty($var) --> returns a Boolean <br>
+strlen(string $string) --> returns length of given string as int <br>
+trim (string $str [, string $character_mask = " \t\n\r\0\x0B" ] ) --> returns string with whitespace stripped from beggining and end of str. <br>
+die(<i> optional str text </i>) --> equivalent to exit <br>
+unset($var) --> unsets a given variable which is set in e.g local storage <br>
 
 ### PHP Technologies 
 
